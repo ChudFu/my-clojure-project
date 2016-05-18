@@ -1,5 +1,5 @@
 # my-clojure-project
 -Parallel merge sort
 
-#Implementation
+##Implementation
 -This project was designed in Eclipse using clojure.
